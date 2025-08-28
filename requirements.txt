@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain_groq
+llama-index
+python-dotenv
+requests
+beautifulsoup4
+lxml
